@@ -1,4 +1,12 @@
-# al3lja it's just me seeking for clarity 
+# al3lja 
+
+
+
+
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
