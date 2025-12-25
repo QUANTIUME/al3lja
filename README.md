@@ -1,4 +1,4 @@
-# al3lja
+# al3lja it's just me seeking for clarity 
 <!DOCTYPE html>
 <html lang="en">
 <head>
